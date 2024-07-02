@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Tiburón",
+        "habitat": "Oceanos",
+        "tamaño": "6m",
+        "dieta": "Carnivoro"
+
+    },
+    {
+        "id": "2",
+        "name": "Pez Óseo",
+        "habitat": "Arrecifes de coral",
+        "tamaño": "11cm",
+        "dieta": "Omnívoro"
+
+    },
+    {
+        "id": "3",
+        "name": "Delfín",
+        "habitat": "Océanos",
+        "tamaño": "2.5m",
+        "dieta": "Carnívoro"
+    },
+    {
+        "id": "4",
+        "name": "Ballena Azul",
+        "habitat": "Océanos",
+        "tamaño": "30m",
+        "dieta": "Planctívoro"
+    },
+    {
+        "id": "5",
+        "name": "Medusa",
+        "habitat": "Océanos",
+        "tamaño": "30cm",
+        "dieta": "Carnívoro"
+    },
+    {
+        "id": "6",
+        "name": "Caballito de Mar",
+        "habitat": "Arrecifes de coral",
+        "tamaño": "15cm",
+        "dieta": "Carnívoro"
+    },
+    {
+        "id": "7",
+        "name": "Estrella de Mar",
+        "habitat": "Océanos",
+        "tamaño": "25cm",
+        "dieta": "Omnívoro"
+    },
+    {
+        "id": "8",
+        "name": "Pulpo",
+        "habitat": "Océanos",
+        "tamaño": "1m",
+        "dieta": "Carnívoro"
+    },
+    {
+        "id": "9",
+        "name": "Tortuga Marina",
+        "habitat": "Océanos",
+        "tamaño": "1.5m",
+        "dieta": "Omnívoro"
+    },
+    {
+        "id": "10",
+        "name": "Mero",
+        "habitat": "Arrecifes de coral",
+        "tamaño": "2.3m",
+        "dieta": "Carnívoro"
+    }
+]

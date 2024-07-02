@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "detalles": {
+            "nombre_comun": "Tiburón",
+            "nombre_cientifico": "Selachimorpha",
+            "vida_promedio": "20-30 años",
+            "peligro_extincion": "Vulnerable",
+            "descripcion": "Los tiburones son peces cartilaginosos grandes y depredadores que habitan en océanos de todo el mundo."
+        }
+    },
+    {
+        "id": "2",
+        "detalles": {
+            "nombre_comun": "Pez Óseo",
+            "nombre_cientifico": "Osteichthyes",
+            "vida_promedio": "10-15 años",
+            "peligro_extincion": "No evaluado",
+            "descripcion": "Los peces óseos son un grupo diverso de peces que tienen un esqueleto principalmente óseo y se encuentran en arrecifes de coral y otros hábitats acuáticos."
+        }
+    },
+    {
+        "id": "3",
+        "detalles": {
+            "nombre_comun": "Delfín",
+            "nombre_cientifico": "Delphinidae",
+            "vida_promedio": "20-45 años",
+            "peligro_extincion": "Menor preocupación",
+            "descripcion": "Los delfines son mamíferos marinos conocidos por su inteligencia y habilidades acrobáticas, y habitan en océanos y mares de todo el mundo."
+        }
+    },
+    {
+        "id": "4",
+        "detalles": {
+            "nombre_comun": "Ballena Azul",
+            "nombre_cientifico": "Balaenoptera musculus",
+            "vida_promedio": "70-90 años",
+            "peligro_extincion": "En peligro",
+            "descripcion": "La ballena azul es el animal más grande que haya existido, con un cuerpo enorme que habita en todos los océanos del mundo."
+        }
+    },
+    {
+        "id": "5",
+        "detalles": {
+            "nombre_comun": "Medusa",
+            "nombre_cientifico": "Scyphozoa",
+            "vida_promedio": "1-3 años",
+            "peligro_extincion": "No evaluado",
+            "descripcion": "Las medusas son criaturas marinas gelatinosas y a menudo translúcidas, conocidas por sus tentáculos urticantes."
+        }
+    },
+    {
+        "id": "6",
+        "detalles": {
+            "nombre_comun": "Caballito de Mar",
+            "nombre_cientifico": "Hippocampus",
+            "vida_promedio": "3-5 años",
+            "peligro_extincion": "Vulnerable",
+            "descripcion": "Los caballitos de mar son pequeños peces con una forma inusual que viven en aguas costeras poco profundas y se encuentran en arrecifes de coral."
+        }
+    },
+    {
+        "id": "7",
+        "detalles": {
+            "nombre_comun": "Estrella de Mar",
+            "nombre_cientifico": "Asteroidea",
+            "vida_promedio": "5-10 años",
+            "peligro_extincion": "No evaluado",
+            "descripcion": "Las estrellas de mar son equinodermos con brazos radiantes que se encuentran en todos los océanos del mundo."
+        }
+    },
+    {
+        "id": "8",
+        "detalles": {
+            "nombre_comun": "Pulpo",
+            "nombre_cientifico": "Octopoda",
+            "vida_promedio": "1-3 años",
+            "peligro_extincion": "No evaluado",
+            "descripcion": "Los pulpos son moluscos cefalópodos conocidos por su inteligencia, su capacidad para cambiar de color y su habilidad para moverse con agilidad."
+        }
+    },
+    {
+        "id": "9",
+        "detalles": {
+            "nombre_comun": "Tortuga Marina",
+            "nombre_cientifico": "Cheloniidae",
+            "vida_promedio": "50-100 años",
+            "peligro_extincion": "En peligro",
+            "descripcion": "Las tortugas marinas son reptiles marinos longevos que migran largas distancias entre sus áreas de alimentación y reproducción."
+        }
+    },
+    {
+        "id": "10",
+        "detalles": {
+            "nombre_comun": "Mero",
+            "nombre_cientifico": "Epinephelinae",
+            "vida_promedio": "30-50 años",
+            "peligro_extincion": "Vulnerable",
+            "descripcion": "El mero es un pez grande que vive en arrecifes de coral y es conocido por su tamaño y su carne sabrosa."
+        }
+    }
+]
